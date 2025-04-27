@@ -15,4 +15,4 @@ python test.py
 
 # Code Reference
 The code is based on the pysot library：https://github.com/StrangerZhang/pysot-toolkit
-Reference：https://github.com/ohhhyeahhh/SiamCAR和
+Reference：https://github.com/ohhhyeahhh/SiamCAR and https://github.com/easycodesniper-afk/SiamCSR
